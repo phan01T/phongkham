@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\obj\\Debug\\net8.0\\compressed\\gdbrthit7w.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\phongkhamthuy.styles.css",
+      "PackagePath": "staticwebassets\\phongkhamthuy.styles.css"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\2.1.2.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\2.1.2.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\Untitled-9-34.png",
+      "PackagePath": "staticwebassets\\bootstrap\\Untitled-9-34.png"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\bacsiphan-khanh-thao.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\bacsiphan-khanh-thao.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\cach-cham-soc-cho-meo-sau-khi-phau-thuat.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\cach-cham-soc-cho-meo-sau-khi-phau-thuat.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\chamsoc-dinhduong.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\chamsoc-dinhduong.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\favicon.png",
+      "PackagePath": "staticwebassets\\bootstrap\\favicon.png"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\hoang-anh-duc.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\hoang-anh-duc.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\mai-thuy-duong.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\mai-thuy-duong.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\slide.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\slide.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\slide1.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\slide1.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\tiemchung.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\tiemchung.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\tin tức 1.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\tin tức 1.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\tin tức 2.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\tin tức 2.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\tin tức 3.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\tin tức 3.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\trang thiết bị.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\trang thiết bị.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\unnamed.png",
+      "PackagePath": "staticwebassets\\bootstrap\\unnamed.png"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\bootstrap\\xemnghiem.jpg",
+      "PackagePath": "staticwebassets\\bootstrap\\xemnghiem.jpg"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\sample-data\\news.json",
+      "PackagePath": "staticwebassets\\sample-data\\news.json"
+    },
+    {
+      "Id": "E:\\PhongKhamThuY\\PhongKhamThuY\\phongkhamthuy\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.phongkhamthuy.props",
+      "PackagePath": "build\\phongkhamthuy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.phongkhamthuy.props",
+      "PackagePath": "buildMultiTargeting\\phongkhamthuy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.phongkhamthuy.props",
+      "PackagePath": "buildTransitive\\phongkhamthuy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.phongkhamthuy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

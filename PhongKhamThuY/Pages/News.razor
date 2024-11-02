@@ -1,0 +1,43 @@
+﻿@page "/news"
+@using System.Collections.Generic
+
+<h3>News Page</h3>
+
+<p>Welcome to the news page. Here are the latest updates:</p>
+
+@if (NewsArticles?.Count > 0)
+{
+    <ul>
+        @foreach (var article in NewsArticles)
+        {
+            <li>
+                <h4>@article.Title</h4>
+                <p>@article.Content</p>
+                <small>@article.Date.ToString("dd/MM/yyyy")</small>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No news articles available.</p>
+}
+
+@code {
+    // Dữ liệu mẫu cho các bài báo tin tức
+    private List<NewsArticle> NewsArticles { get; set; } = new List<NewsArticle>
+    {
+        new NewsArticle { Title = "Article 1", Content = "Content for article 1", Date = DateTime.Now.AddDays(-1) },
+        new NewsArticle { Title = "Article 2", Content = "Content for article 2", Date = DateTime.Now.AddDays(-2) },
+        new NewsArticle { Title = "Article 3", Content = "Content for article 3", Date = DateTime.Now.AddDays(-3) }
+    };
+
+    // Định nghĩa lớp cho bài viết tin tức
+    private class NewsArticle
+    {
+        public string Title { get; set; }
+        public string Content { get; set; }
+        public DateTime Date { get; set; }
+    }
+}
+

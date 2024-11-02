@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PhongKhamThuY\\PhongKhamThuY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\pages\\news.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\pages\\news.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\wwwroot\\icon-192.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\wwwroot\\icon-192.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\newfolder\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\newfolder\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|e:\\phongkhamthuy\\phongkhamthuy\\phongkhamthuy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE8000A-7D97-491F-AAA3-A22DEA656145}|phongkhamthuy\\phongkhamthuy.csproj|solutionrelative:phongkhamthuy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Pages\\Contact.razor",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\Pages\\Contact.razor",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Pages\\Contact.razor",
+              "RelativeToolTip": "PhongKhamThuY\\Pages\\Contact.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T20:48:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.razor",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Pages\\index.razor",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\Pages\\index.razor",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Pages\\index.razor",
+              "RelativeToolTip": "PhongKhamThuY\\Pages\\index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T20:39:07.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "icon-192.png",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\wwwroot\\icon-192.png",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\wwwroot\\icon-192.png",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\wwwroot\\icon-192.png",
+              "RelativeToolTip": "PhongKhamThuY\\wwwroot\\icon-192.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-01T20:18:17.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\_Imports.razor",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\_Imports.razor",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\_Imports.razor",
+              "RelativeToolTip": "PhongKhamThuY\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:40:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\NewFolder\\NewsItem.cs",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\NewFolder\\NewsItem.cs",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\NewFolder\\NewsItem.cs",
+              "RelativeToolTip": "PhongKhamThuY\\NewFolder\\NewsItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:10:01.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.razor",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Pages\\News.razor",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\Pages\\News.razor",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Pages\\News.razor",
+              "RelativeToolTip": "PhongKhamThuY\\Pages\\News.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:08:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\wwwroot\\css\\app.css",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "PhongKhamThuY\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwv4gAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T18:12:19.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Program.cs",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\Program.cs",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Program.cs",
+              "RelativeToolTip": "PhongKhamThuY\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:47:49.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\wwwroot\\index.html",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\wwwroot\\index.html",
+              "RelativeToolTip": "PhongKhamThuY\\wwwroot\\index.html",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-30T17:46:10.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\App.razor",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\App.razor",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\App.razor",
+              "RelativeToolTip": "PhongKhamThuY\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:44:22.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "PhongKhamThuY\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\PhongKhamThuY\\PhongKhamThuY\\PhongKhamThuY\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "PhongKhamThuY\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:30:47.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
